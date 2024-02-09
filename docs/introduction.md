@@ -39,11 +39,11 @@ By default, all toasts will inherit ToastContainer's props. Props defined on toa
 - Fancy progress bar to display the remaining time
 - Possibility to update a toast
 - You can control the progress bar a la `nprogress` 😲
-- You can limit the number of toast displayed at the same time
+- You can limit the number of toasts displayed at the same time
 - Dark mode 🌒
 - Colored theme
 - Promise support
-- And much more !
+- And much more!
 
 ## Contribute
 
